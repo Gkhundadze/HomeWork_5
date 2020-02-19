@@ -1,0 +1,84 @@
+.float-property{
+	text-align: center;
+	margin-top: 14px;
+	margin-bottom: 7px;
+	font-family: Myriad Pro Regular;
+	font-size: 18px;
+}
+section{
+	background-color: #56836F;
+	border: 2px solid #006837;
+	margin: 16px 40px;
+	padding-bottom: 80px;
+
+}
+
+.navigation-box{
+	margin: 36px 0 100px 0;
+
+}
+.logo{
+	float: right;
+	margin-right: 50px;
+	margin-left: 65px;
+}
+ul{
+	float: right;
+	margin-top: 20px;
+}
+.navigation-li{
+	float: left;
+}
+.clear-navigation{
+	clear: both;
+}
+li a{
+	margin-left: 50px;
+	color: white;
+	font-size: 48px;
+	font-family: Myriad Pro Regular;
+}
+.leftside{
+	background-color: #FCEE21;
+	width: 617px;
+	float: left;
+	margin-left: 70px;
+	padding-top: 13px;
+	padding-right: 32px;
+	padding-left: 26px;
+	height: 356px;
+
+}
+.rightside{
+	background-color: #FCEE21;
+	width: 523px;
+	float: right;
+	margin-right: 120px;
+	padding-top: 13px;
+	padding-left: 26px;
+	height: 356px;
+
+	
+}
+.leftimage{
+	width: 150px;
+	float: right;
+	margin-left: 45px;
+	margin-bottom: 36px;
+}
+.clear{
+	clear: both;
+}
+.rightimage{
+	width: 150px;
+	float: left;
+	margin-right: 22px;
+	margin-bottom: 36px;
+}
+.lefttext{
+	font-family: Segoe UI;
+}
+.righttext{
+	font-family: Segoe UI;
+	color: #006837;
+}
